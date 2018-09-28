@@ -1,6 +1,7 @@
 # Social_Network_Analysis
 
 Community detection making cuts at links with highest betweenness from [MovieLens](http://files.grouplens.org/datasets/movielens/ml-latest-small-README.html) dataset.
+Implemented Girvan Newman algorithm to find optimum cuts in the graph.
 
 **Execution:** 
 
