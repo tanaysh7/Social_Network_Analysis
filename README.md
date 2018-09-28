@@ -1,5 +1,7 @@
 # Social_Network_Analysis
 
+Community detection making cuts at links with highest betweenness from [MovieLens](http://files.grouplens.org/datasets/movielens/ml-latest-small-README.html) dataset.
+
 **Execution:** 
 
 spark-2.2.1-bin-hadoop2.7\bin\spark-submit Tanay_Shankar_Community.py ratings.csv 
